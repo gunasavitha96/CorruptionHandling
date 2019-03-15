@@ -1,5 +1,3 @@
-hyyy 
-hii
 Sub ProgressBar()
 On Error Resume Next
 Dim fd As Office.FileDialog
