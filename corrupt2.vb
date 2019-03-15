@@ -351,16 +351,3 @@ End If
  
 End Sub
 
-
-'Sub InitProgressBar()
-
-'With Progress1 ' To display progress bar
-
-'.Bar.width = 0
-'.Text.Caption = "0 out of total URS files Processed"
-'.Text1.Caption = "0 out total tables processed"
-
-'.Show vbModeless ' Mode for the Progress bar
- 
-'End With
-'End Sub
